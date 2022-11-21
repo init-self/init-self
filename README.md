@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@init-self**
-- 👀 I’m interested in **Coding and Programming stuff and changing how machines work**
-- 🌱 I’m currently learning **PHP, Javascript, PostgreSQL**
+- 👀 I’m interested in **Coding and Programming stuff and how machines work**
+- 🌱 I’m currently learning and working with **Javascript, NodeJS, SQL, Python, JAVA, C/C++ and Angular**
 - 💞️ I’m looking to collaborate on **Python projects**
 - 📫 How to reach me ...
 
